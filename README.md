@@ -51,3 +51,7 @@ Results are sorted by uniqueness of their response's length. This means that the
 ## Contributing
 
 Pull requests are welcome. Feel free to open an issue if you want to add other features.
+
+## References
+ - https://developers.google.com/search/docs/advanced/crawling/overview-google-crawlers
+ - https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0
