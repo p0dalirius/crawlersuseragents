@@ -1,4 +1,4 @@
-# searchenginesbots
+# crawlersuseragents
 
 This Python script can be used to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
 
@@ -14,10 +14,10 @@ This Python script can be used to check if there is any differences in responses
 ## Usage
 
 ```
-$ ./searchenginesbots.py -h
+$ ./crawlersuseragents.py -h
 [~] Access web pages as web crawlers User-Agents, v1.1
 
-usage: searchenginesbots.py [-h] [-v] [-t THREADS] [-x PROXY] [-k] [-L] [-j JSONFILE] url
+usage: crawlersuseragents.py [-h] [-v] [-t THREADS] [-x PROXY] [-k] [-L] [-j JSONFILE] url
 
 This Python script can be used to check if there is any differences in responses of an application
 when the request comes from a search engine's crawler.
